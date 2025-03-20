@@ -2,7 +2,8 @@
 
 ## resumo inducativo
 
->[!NOTE]"modelo"
+>[!NOTE]
+>"modelo"
 >1 parágrafo de 150 a 500 palavras
 
 sinopses
@@ -10,7 +11,8 @@ testos acadêmicos (TCC)
 nã odispenca a leitura do artigo
 
 ## resumo informativo
->[!NOTE] "modelo"
+>[!NOTE] 
+>"modelo"
 >fichamento
 
 resumo de obra literária/ mapas mentais 
