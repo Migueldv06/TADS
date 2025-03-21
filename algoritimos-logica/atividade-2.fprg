@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ALUNO-Administrador"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-21 08:19:40 "/>
+        <attribute name="created" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDg6MDY6MzkgIjs0MDU0"/>
+        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDg6MTk6NDAgIjsxOzQxNTg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="A" type="Integer" array="False" size=""/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <declare name="c" type="Integer" array="False" size=""/>
+            <declare name="d" type="Integer" array="False" size=""/>
+            <declare name="e" type="Integer" array="False" size=""/>
+            <declare name="f" type="Integer" array="False" size=""/>
+            <declare name="g" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="10"/>
+            <assign variable="b" expression="3"/>
+            <assign variable="c" expression="a+b"/>
+            <assign variable="d" expression="a-b"/>
+            <assign variable="e" expression="a/b"/>
+            <assign variable="f" expression="a*b"/>
+            <assign variable="g" expression="a%b"/>
+            <output expression="&quot;Resultado c =&quot; &amp;c" newline="True"/>
+            <output expression="&quot;Resulado d = &quot;&amp;d" newline="True"/>
+            <output expression="&quot;Resultado e = &quot;&amp;e" newline="True"/>
+            <output expression="&quot;Resultado f = &quot;&amp;f" newline="True"/>
+            <output expression="&quot;Resultado g = &quot;&amp;g" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
