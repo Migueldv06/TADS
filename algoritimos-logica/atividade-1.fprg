@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ALUNO-Administrador"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-21 08:03:50 "/>
+        <attribute name="created" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDc6Mjg6MzAgIjs0MDQ4"/>
+        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDg6MDM6NTAgIjsxOzQxNTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Miguel&quot;" newline="True"/>
+            <output expression="&quot;Colombo&quot;" newline="True"/>
+            <output expression="&quot;Osasco&quot;" newline="True"/>
+            <output expression="&quot;13/12/2006&quot;" newline="True"/>
+            <output expression="&quot;a soma de 10+3 = &quot;&amp;10+3" newline="True"/>
+            <output expression="&quot;a subtra&#231;&#227;o de 10-3 = &quot;&amp;10-3" newline="True"/>
+            <output expression="&quot;a divis&#227;o de 10/3 = &quot;&amp;10/3" newline="True"/>
+            <output expression="&quot;a multipicla&#231;&#227;o de 10*3 = &quot;&amp;10*3" newline="True"/>
+            <output expression="&quot;o resto de 10%3 = &quot;&amp;10%3" newline="True"/>
+            <output expression="&quot;o calculo 10+(5*3) = &quot;&amp;10+(5*3)" newline="True"/>
+            <output expression="&quot;o calculo (10+5)*3 = &quot;&amp;(10+5)*3" newline="True"/>
+        </body>
+    </function>
+    <function name="Principal" type="None" variable="">
+        <parameters/>
+        <body/>
+    </function>
+    <function name="teste" type="None" variable="">
+        <parameters/>
+        <body/>
+    </function>
+</flowgorithm>
