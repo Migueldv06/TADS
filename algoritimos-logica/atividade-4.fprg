@@ -4,9 +4,9 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="ALUNO-Administrador"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2025-03-21 09:36:07 "/>
+        <attribute name="saved" value="2025-03-21 09:39:28 "/>
         <attribute name="created" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDk6Mjk6MzIgIjs0MDUz"/>
-        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDk6MzY6MDcgIjsyOzQxNjI="/>
+        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDk6Mzk6MjggIjszOzQxNjk="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
@@ -14,7 +14,7 @@
             <declare name="ladoquadrado, areaquadrado, lado1retangulo, lado2retangulo, arearetangulo" type="Integer" array="False" size=""/>
             <input variable="ladoquadrado"/>
             <assign variable="areaquadrado" expression="ladoquadrado*ladoquadrado"/>
-            <output expression="&quot;areaquadrado = &quot;&amp;areaquadrado" newline="True"/>
+            <output expression="&quot;Area quadrado = &quot;&amp;areaquadrado" newline="True"/>
             <input variable="lado1retangulo"/>
             <input variable="lado2retangulo"/>
             <assign variable="arearetangulo" expression="lado1retangulo*lado2retangulo"/>
