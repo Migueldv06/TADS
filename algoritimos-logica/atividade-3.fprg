@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ALUNO-Administrador"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-21 09:28:27 "/>
+        <attribute name="created" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDg6MjA6NDUgIjs0MDQ3"/>
+        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMDk6Mjg6MjcgIjsyOzQxNjU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, delta, xlinha, x2linhas" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <input variable="b"/>
+            <input variable="c"/>
+            <assign variable="delta" expression="(b*b)-(4*a*c)"/>
+            <output expression="&quot;Delta = &quot;&amp;delta" newline="True"/>
+            <assign variable="xlinha" expression="((-1*b)+sqrt(delta))/(2*a)"/>
+            <output expression="&quot;xlinha = &quot;&amp;xlinha" newline="True"/>
+            <assign variable="x2linhas" expression="((-1*b)-sqrt(delta))/(2*a)"/>
+            <output expression="&quot;x2linhas = &quot;&amp;x2linhas" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
