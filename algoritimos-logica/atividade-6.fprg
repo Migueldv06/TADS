@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ALUNO-Administrador"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-21 10:21:43 "/>
+        <attribute name="created" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMTA6MTk6MTUgIjs0MDQ1"/>
+        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMTA6MjE6NDMgIjsxOzQxNDc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, notafinal" type="Integer" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="notafinal" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot;Nota Final = &quot;&amp; notafinal" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

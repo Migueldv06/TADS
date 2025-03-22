@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ALUNO-Administrador"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-03-21 10:19:01 "/>
+        <attribute name="created" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMTA6MDQ6MjYgIjs0MDQx"/>
+        <attribute name="edited" value="QUxVTk8tQWRtaW5pc3RyYWRvcjtERVNLVE9QLTZPT1Q4VTE7MjAyNS0wMy0yMTsiMTA6MTk6MDEgIjsxOzQxNDg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="altura, peso, imc" type="Real" array="False" size=""/>
+            <input variable="altura"/>
+            <input variable="peso"/>
+            <assign variable="imc" expression="peso/(altura*altura)"/>
+            <output expression="&quot;seu IMC &#233; &quot;&amp; imc" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
