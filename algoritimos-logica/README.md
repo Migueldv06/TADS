@@ -1,8 +1,7 @@
 # Atividades:
 
 ## Atividade 1
-![image](atividade-1.png "imagem att 1")
-<img src="atividade-1.png" alt="Imagem Atividade 1" height="300">
+<img src="atividade-1.png" alt="Imagem Atividade 1" height="600">
 
 ## Atividade 2
 
