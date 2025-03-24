@@ -1,7 +1,7 @@
 # Atividades:
 
 ## Atividade 1
-[!image](atividade-1.png "imagem att 1")
+![image](atividade-1.png "imagem att 1")
 
 ## Atividade 2
 
