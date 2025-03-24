@@ -1,13 +1,10 @@
 # Atividades:
 
 ## Atividade 1
-Exemplo basico de saída
-<img src="atividade-1.png" alt="Imagem Atividade 1" height="600">
+Exemplos basicos de saídas
 <details>
-  <summary>Clique para ver a imagem</summary>
-
-  ![Texto alternativo](atividade-1.png)
-
+<summary>Imagem</summary>
+  <img src="atividade-1.png" alt="Imagem Atividade 1" height="600">
 </details>
 
 
