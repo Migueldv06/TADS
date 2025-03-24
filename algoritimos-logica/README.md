@@ -9,6 +9,11 @@ Exemplos basicos de saídas
 
 
 ## Atividade 2
+Exemplos basicos de operações matematicas
+<details>
+<summary>Imagem</summary>
+  <img src="atividade-2.png" alt="Imagem Atividade 2" height="600">
+</details>
 
 ## Atividade 3
 
