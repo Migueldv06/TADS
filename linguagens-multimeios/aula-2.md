@@ -1,6 +1,7 @@
 #Elementos composicionais dos resumos
 
-> [!TIP]problematização  
+> [!TIP]
+> problematização  
 > estabelecimento do objetivo  
 > Descrição do método  
 > Apresentação dos resultados  
