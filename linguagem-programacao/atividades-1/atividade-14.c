@@ -12,7 +12,7 @@ int main(){
     scanf("%f",&preco);
 
     dist_km = dist/1000;
-    litros = dist_km*12;
+    litros = dist_km/12;
     custo = litros*preco;
 
     printf("\nLitros : %.2f \nCusto : %.2f \n\n",litros, custo);
